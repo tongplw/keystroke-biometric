@@ -1,6 +1,7 @@
 # Simple Keystroke Biometric
 
 I developed this keystroke biometric project for Computer Security course. The biometric can return confidence value of whether who is the typer. 
+![system architecture](res/architecture.png)
 
 ## Getting Started
 
@@ -22,4 +23,4 @@ python ./test.py
 
 For every character typed, there will be value(s) of confidence showing up as the picture below
 
-![xx](res/example.png)
+![exmaple of prediction result](res/example.png)
